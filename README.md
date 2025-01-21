@@ -1,7 +1,7 @@
 # Threat Analyzer
 
 <p align="center">
-  <img src="screenshots/logo.png" alt="Threat Analyzer Logo" width="200"/>
+  <img src="https://github.com/SAHILDUDHAL21/Threat-Analyzer/blob/main/Screenshot%202025-01-21%20185208.png" alt="Threat Analyzer Logo" width="200"/>
 </p>
 
 <div align="center">
@@ -33,9 +33,10 @@ A sophisticated malware detection and file analysis tool built with Flutter. Thr
 ## 📱 Screenshots & Demo
 
 <p align="center">
-  <img src="screenshots/home.png" width="200" alt="Home Screen"/>
-  <img src="screenshots/scan.png" width="200" alt="Scan Results"/>
-  <img src="screenshots/analysis.png" width="200" alt="Threat Analysis"/>
+  <img src="https://github.com/SAHILDUDHAL21/Threat-Analyzer/blob/main/Screenshot%202025-01-21%20184629.png" width="200" alt="Home Screen"/>
+  <img src="https://github.com/SAHILDUDHAL21/Threat-Analyzer/blob/main/Screenshot%202025-01-21%20185107.png" width="200" alt="Scan Results"/>
+  <img src="https://github.com/SAHILDUDHAL21/Threat-Analyzer/blob/main/Screenshot%202025-01-21%20185122.png" width="200" alt="Threat Analysis"/>
+  <img src="https://github.com/SAHILDUDHAL21/Threat-Analyzer/blob/main/Screenshot%202025-01-21%20184828.png" width="200" alt="Threat Analysis"/>
 </p>
 
 ### 🎥 Video Demo
